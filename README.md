@@ -3,7 +3,7 @@
 This is a working rule element generator for the Foundry VTT PF2e system.
 
 * To run it you must either use the binder link [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TikaelSol/RuleElementGenerator/HEAD) or download the repository and run it using Jupyter.
-* Once Binder has loaded, open 'RuleElements.ipynb' then from the kernel menu select 'Run All'.
+* Once Binder has loaded, open 'RuleElements.ipynb' then from the cell menu select 'Run All'.
 * The code Will hide itself and you'll see the interface for generating rule elements.
 
 
