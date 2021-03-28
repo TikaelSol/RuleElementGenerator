@@ -14,3 +14,5 @@ Notes:
 * Advanced selectors always display, but most combinations of selector and advanced selector don't make sense.
 * When using override remember that the number of dice will be bonus dice.  So if you just want to change the base damage to d12 without adding dice the dice number should be 0.
 * If you encounter an issue please submit an Issue on the github page (https://github.com/TikaelSol/RuleElementGenerator/issues) or ping me on Discord (Tikael#6851).
+
+I know the code isn't commented and parts are probably superflous.  I will be commenting the code soon for anyone wanting to follow along.  This is my first time using iPython widgets so I'm sure some implementation could be done cleaner.
