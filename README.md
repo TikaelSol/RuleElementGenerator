@@ -6,6 +6,7 @@ This is a working rule element generator for the Foundry VTT PF2e system.
 * Once Binder has loaded, open 'RuleElements.ipynb' then from the cell menu select 'Run All'.
 * The code will hide itself and you'll see the interface for generating rule elements.
 
+There is also a bracket maker, to use it just open the BracketGenerator.ipynb file and run the cell, the prompts will ask you for input.  If you want to make a new one run the code cell again.
 
 Notes:
 * For general questions about rule elements or to learn the more advanced features please visit the PF2e system wiki (https://gitlab.com/hooking/foundry-vtt---pathfinder-2e/-/wikis/Quickstart-guide-for-rule-elements) or the PF2e channel on the Foundry Discord (https://discord.gg/foundryvtt).
