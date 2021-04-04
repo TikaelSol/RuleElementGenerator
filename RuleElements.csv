@@ -5,4 +5,4 @@ Weapon Potency,PF2E.RuleElement.WeaponPotency,y,n,n,n,y,n,mandatory,n,n,n,n,n,n,
 Striking rune,PF2E.RuleElement.Striking,y,n,n,n,y,n,mandatory,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
 Multi Attack Penalty,PF2E.RuleElement.MultipleAttackPenalty,y,n,n,n,y,n,mandatory,n,n,n,n,n,n,n,y,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n
 Fixed Proficiency,PF2E.RuleElement.FixedProficiency,y,n,n,n,y,n,mandatory,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,n,y,y,y,y,n,y,y,y,n,n,n,n,n,n,n,n,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y
-Note,PF2E.RuleElement.Note,n,n,n,n,n,y,mandatory,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,n,n,n,n,n,n,n,n,n,n,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y
+Note,PF2E.RuleElement.Note,y,n,n,n,n,y,mandatory,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,n,n,n,n,n,n,n,n,n,n,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y,y
