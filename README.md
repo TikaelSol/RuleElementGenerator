@@ -1,10 +1,11 @@
 # RuleElementGenerator
 
-This is a working rule element generator for the Foundry VTT PF2e system.
+This is a working rule element generator for the Foundry VTT PF2e system.  
 
 * To run it you must either use the binder link [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TikaelSol/RuleElementGenerator/HEAD) or download the repository and run it using Jupyter.
 * Once Binder has loaded, open 'RuleElements.ipynb' then from the cell menu select 'Run All'.
 * The code will hide itself and you'll see the interface for generating rule elements.
+* Scroll down to see a gif of this in action making a rule element that will apply a +1 potency rune to all unarmed attacks.
 
 There is also a bracket maker, to use it just open the BracketGenerator.ipynb file and run the cell, the prompts will ask you for input.  If you want to make a new one run the code cell again.
 
@@ -17,3 +18,6 @@ Notes:
 * If you encounter an issue please submit an Issue on the github page (https://github.com/TikaelSol/RuleElementGenerator/issues) or ping me on Discord (Tikael#6851).
 
 I know the code isn't commented and parts are probably superflous.  I will be commenting the code soon for anyone wanting to follow along.  This is my first time using iPython widgets so I'm sure some implementation could be done cleaner.
+
+
+![rulelementgenerator](https://user-images.githubusercontent.com/80183198/113496306-5971d580-94c6-11eb-91c6-67aa7b50edcc.gif)
